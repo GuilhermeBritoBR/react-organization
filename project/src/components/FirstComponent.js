@@ -1,6 +1,5 @@
 import { Text, View} from "react-native";
 import { styles } from "../styles/stylesheet";
-import { Header } from "react-native/Libraries/NewAppScreen";
 
 //CABEÇALHO
 export default function FirstComponent() {
