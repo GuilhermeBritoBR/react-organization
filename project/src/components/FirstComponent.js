@@ -5,8 +5,8 @@ import { Header } from "react-native/Libraries/NewAppScreen";
 //CABEÇALHO
 export default function FirstComponent() {
     return(
-        <View style={{display: 'flex',flex:1, }}>
-        <Text style={{color: 'blue', fontSize: 24}}>BRITO-HEADER</Text>
+        <View style={{alignItems: 'center', justifyContent: 'center', display: 'flex',flex:0.3, backgroundColor: 'green', width: "100%"}}>
+        <Text style={{color: 'white', fontSize: 24}}>BRITO-HEADER</Text>
         <Text>
             Menu
             Login
