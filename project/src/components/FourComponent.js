@@ -5,7 +5,7 @@ import { styles } from "../styles/stylesheet";
 export default function FourComponent() {
     return(
         <View>
-        <Text style={{color: 'pink', fontSize: 24}}>FOOTER</Text>
+        <Text style={{color: 'pink', fontSize: 24, }}>FOOTER</Text>
         
         </View>
     )
